@@ -1,16 +1,16 @@
 var PLAYERS = [
   {
-    name: "Jim Hoskins",
+    name: "Omar",
     score: 31,
     id: 1,
   },
   {
-    name: "Andrew Chalkley",
+    name: "David",
     score: 35,
     id: 2,
   },
   {
-    name: "Alena Holligan",
+    name: "Tim",
     score: 42,
     id: 3,
   },
